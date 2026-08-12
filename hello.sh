@@ -5,3 +5,4 @@ echo "Current Date and Time:"
 date
 echo "____________"
 
+GitHub integration is working!
